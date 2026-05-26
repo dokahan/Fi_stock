@@ -1,0 +1,4 @@
+echo __pycache__/ > .gitignore
+echo *.pyc >> .gitignore
+echo .env >> .gitignore
+echo portfolio_groups.json >> .gitignore
